@@ -1,8 +1,10 @@
 main(){
 add(){
-  print("this is addition")
+  print("this is addition");
     }
-sub();
+sub(){
+  print("this is subtraction");
+}
 mul();
 div();
 }
