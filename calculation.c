@@ -3,6 +3,8 @@ add(){
   print("this is addition")
     }
 sub();
-mul();
+mul(){
+  print("thisismultiplication")
+    }
 div();
 }
