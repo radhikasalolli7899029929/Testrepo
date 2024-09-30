@@ -1,10 +1,16 @@
 main(){
 add(){
-  print("this is addition")
+  print("this is addition");
     }
-sub();
+dev1
 mul(){
   print("thisismultiplication")
     }
+
+sub(){
+  print("this is subtraction");
+}
+mul();
+
 div();
 }
